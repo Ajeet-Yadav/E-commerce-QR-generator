@@ -1,4 +1,5 @@
 # E-commerce-QR-generator
+
 Quick Response Code (QR Code) is a two-dimensional matrix like barcode, designed by a subsidiary of Toyota to mark their vehicles for tracking in their manufacturing facilities. This is nothing but a type of barcode.
 
 The four standard modes of data for creating QR code is numeric, alphanumeric, byte / binary and Kanji. There are extensions to these standard types available, using which custom data also can be coded.
